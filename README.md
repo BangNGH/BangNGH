@@ -25,6 +25,7 @@ My name is Huu Bang. I am a student of [Ho Chi Minh City University of Technolog
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
+
 </p>
 
 ## Knowledge: 
@@ -41,22 +42,40 @@ My name is Huu Bang. I am a student of [Ho Chi Minh City University of Technolog
    <img src="https://skillicons.dev/icons?i=bootstrap"/>
 </p>
 
-<p>
+## Activities:
+
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghbang1909&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="nghbang1909" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=nghbang1909&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="nghbang1909" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## Reposotory:
+
+<p align="center">
 <a href="https://github.com/nghbang1909/Coach_Ticket_Website">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nghbang1909&repo=Coach_Ticket_Website&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nghbang1909&repo=Coach_Ticket_Website&theme=vue" />
 </a>    
 <a href="https://github.com/nghbang1909/FurnitureStore">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nghbang1909&repo=FurnitureStore&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nghbang1909&repo=FurnitureStore&theme=buefy" />
 </a>
 
 <a href="https://github.com/nghbang1909/QuanLyThuVien">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nghbang1909&repo=QuanLyThuVien&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nghbang1909&repo=QuanLyThuVien&theme=shadow_blue" />
 </a>    
 <a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nghbang1909&repo=BookStore&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nghbang1909&repo=BookStore&theme=graywhite" />
 </a>    
 </p>
