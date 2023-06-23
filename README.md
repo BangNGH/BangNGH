@@ -8,7 +8,7 @@ My name is Huu Bang. I am a student of [Ho Chi Minh City University of Technolog
   <a href="mailto:nghbang1909@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
-    <a href="https://www.instagram.com/_nghbang//" alt="Instagram">
+    <a href="https://www.instagram.com/_nghbang/" alt="Instagram">
     <img src="https://skillicons.dev/icons?i=instagram" target="_blank" />
   </a> 
    <a href="https://github.com/nghbang1909" alt="Github">
@@ -74,7 +74,7 @@ My name is Huu Bang. I am a student of [Ho Chi Minh City University of Technolog
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nghbang1909&repo=QuanLyThuVien&theme=shadow_blue" />
 </a>    
-<a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
+<a href="https://github.com/nghbang1909/BookStore">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nghbang1909&repo=BookStore&theme=graywhite" />
 </a>    
