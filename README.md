@@ -2,23 +2,23 @@
 My name is Huu Bang. I am a student of [Ho Chi Minh City University of Technology](https://www.hutech.edu.vn/) (HUTECH University), majoring in Software Engineering.<br>
 ## 📫 How to reach me: 
 <p align="center">
-  <a href="https://www.facebook.com/nghbang1909/" alt="Facebook">
+  <a href="https://www.facebook.com/BangNGH/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="mailto:nghbang1909@gmail.com" alt="Email">
+  <a href="mailto:BangNGH@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
     <a href="https://www.instagram.com/_nghbang/" alt="Instagram">
     <img src="https://skillicons.dev/icons?i=instagram" target="_blank" />
   </a> 
-   <a href="https://github.com/nghbang1909" alt="Github">
+   <a href="https://github.com/BangNGH" alt="Github">
     <img src="https://skillicons.dev/icons?i=github" target="_blank" />
   </a> 
 </p>
 
 ## Skills: 
 <p align="center">
-   <a href="https://github.com/nghbang1909" alt="Github">
+   <a href="https://github.com/BangNGH" alt="Github">
    <img src="https://skillicons.dev/icons?i=postman"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
@@ -31,7 +31,7 @@ My name is Huu Bang. I am a student of [Ho Chi Minh City University of Technolog
 
 ## Knowledge: 
 <p align="center">
-   <a href="https://github.com/nghbang1909" alt="Github">
+   <a href="https://github.com/BangNGH" alt="Github">
   <img src="https://skillicons.dev/icons?i=dotnet"/>
 <img src="https://skillicons.dev/icons?i=c"/>
   <img src="https://skillicons.dev/icons?i=cs"/>
@@ -50,8 +50,8 @@ My name is Huu Bang. I am a student of [Ho Chi Minh City University of Technolog
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghbang1909&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Language" alt="nghbang1909" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=nghbang1909&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Activities%20on%20Github" alt="nghbang1909" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BangNGH&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Language" alt="BangNGH" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=BangNGH&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Activities%20on%20Github" alt="BangNGH" width="100%"/>
     </td>
     <td>
       <p align="center"> 
@@ -64,21 +64,21 @@ My name is Huu Bang. I am a student of [Ho Chi Minh City University of Technolog
 ## Reposotory:
 
 <p align="center">
-<a href="https://github.com/nghbang1909/Coach_Ticket_Website">
+<a href="https://github.com/BangNGH/Coach_Ticket_Website">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nghbang1909&repo=Coach_Ticket_Website&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BangNGH&repo=Coach_Ticket_Website&theme=vue" />
 </a>    
-<a href="https://github.com/nghbang1909/FurnitureStore">
+<a href="https://github.com/BangNGH/FurnitureStore">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nghbang1909&repo=FurnitureStore&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BangNGH&repo=FurnitureStore&theme=buefy" />
 </a>
 
-<a href="https://github.com/nghbang1909/ManageBooks">
+<a href="https://github.com/BangNGH/ManageBooks">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nghbang1909&repo=ManageBooks&theme=shadow_blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BangNGH&repo=ManageBooks&theme=shadow_blue" />
 </a>    
-<a href="https://github.com/nghbang1909/BookStore">
+<a href="https://github.com/BangNGH/BookStore">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nghbang1909&repo=BookStore&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BangNGH&repo=BookStore&theme=graywhite" />
 </a>    
 </p>
