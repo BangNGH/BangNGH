@@ -73,7 +73,7 @@ My name is Huu Bang. I am a student of [Ho Chi Minh City University of Technolog
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nghbang1909&repo=FurnitureStore&theme=buefy" />
 </a>
 
-<a href="https://github.com/nghbang1909/QuanLyThuVien">
+<a href="https://github.com/nghbang1909/ManageBooks">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nghbang1909&repo=ManageBooks&theme=shadow_blue" />
 </a>    
