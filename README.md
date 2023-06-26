@@ -61,7 +61,7 @@ My name is Huu Bang. I am a student of [Ho Chi Minh City University of Technolog
   </tr>
 </table>
 
-## Reposotory:
+## My own projects:
 
 <p align="center">
 <a href="https://github.com/BangNGH/Coach_Ticket_Website">
