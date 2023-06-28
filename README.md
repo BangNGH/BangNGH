@@ -1,5 +1,9 @@
-### HI THERE 👋
+<p align="center">
+  <a href="https://github.com/BangNGH"> <img loading="lazy" alt="Welcome" src="welcome.svg"/> </a>
+</p>
+
 My name is Huu Bang. I am a student of [Ho Chi Minh City University of Technology](https://www.hutech.edu.vn/) (HUTECH University), majoring in Software Engineering.<br>
+
 ## 📫 How to reach me: 
 <p align="center">
   <a href="https://www.facebook.com/BangNGH/" alt="Facebook">
@@ -16,7 +20,7 @@ My name is Huu Bang. I am a student of [Ho Chi Minh City University of Technolog
   </a> 
 </p>
 
-## Skills: 
+## Tools: 
 <p align="center">
    <a href="https://github.com/BangNGH" alt="Github">
    <img src="https://skillicons.dev/icons?i=postman"/>
@@ -66,7 +70,7 @@ My name is Huu Bang. I am a student of [Ho Chi Minh City University of Technolog
 <p align="center">
 <a href="https://github.com/BangNGH/Coach_Ticket_Website">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BangNGH&repo=Coach_Ticket_Website&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BangNGH&repo=Coach_Ticket_Website&theme=shadow_blue" />
 </a>    
 <a href="https://github.com/BangNGH/FurnitureStore">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -75,7 +79,7 @@ My name is Huu Bang. I am a student of [Ho Chi Minh City University of Technolog
 
 <a href="https://github.com/BangNGH/ManageBooks">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BangNGH&repo=ManageBooks&theme=shadow_blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BangNGH&repo=ManageBooks&theme=vue" />
 </a>    
 <a href="https://github.com/BangNGH/BookStore">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
