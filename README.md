@@ -83,6 +83,6 @@ My name is Huu Bang. I am a student of [Ho Chi Minh City University of Technolog
 </a>    
 <a href="https://github.com/nguyenvanvinh1012/Coder-Lab">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BangNGH&repo=Coder-Lab&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenvanvinh1012&repo=Coder-Lab&theme=graywhite" />
 </a>    
 </p>
