@@ -72,9 +72,9 @@ My name is Huu Bang. I am a student of [Ho Chi Minh City University of Technolog
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BangNGH&repo=CoderLab&theme=vue" />
 </a>    
-<a href="https://github.com/BangNGH/Food-Social-NetWork">
+<a href="https://github.com/BangNGH/FoodSocial">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BangNGH&repo=Food-Social-NetWork&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BangNGH&repo=FoodSocial&theme=graywhite" />
 </a>    
 
   
