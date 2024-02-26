@@ -64,26 +64,3 @@ My name is Huu Bang. I am a student of [Ho Chi Minh City University of Technolog
     </td>
   </tr>
 </table>
-
-## My own projects:
-
-<p align="center">
-  <a href="https://github.com/BangNGH/CoderLab">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BangNGH&repo=CoderLab&theme=vue" />
-</a>    
-<a href="https://github.com/BangNGH/FoodSocial">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BangNGH&repo=FoodSocial&theme=graywhite" />
-</a>    
-
-  
-<a href="https://github.com/BangNGH/Coach_Ticket_Website">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BangNGH&repo=Coach_Ticket_Website&theme=shadow_blue" />
-</a>    
-<a href="https://github.com/BangNGH/FurnitureStore">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BangNGH&repo=FurnitureStore&theme=buefy" />
-</a>
-</p>
