@@ -3,23 +3,6 @@
 </p>
 
 My name is Huu Bang. I am a student of [Ho Chi Minh City University of Technology](https://www.hutech.edu.vn/) (HUTECH University), majoring in Software Engineering.<br>
-
-## 📫 How to reach me: 
-<p align="center">
-  <a href="https://www.facebook.com/BangNGH/" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="mailto:BangNGH@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-    <a href="https://www.instagram.com/_nghbang/" alt="Instagram">
-    <img src="https://skillicons.dev/icons?i=instagram" target="_blank" />
-  </a> 
-   <a href="https://github.com/BangNGH" alt="Github">
-    <img src="https://skillicons.dev/icons?i=github" target="_blank" />
-  </a> 
-</p>
-
 ## Tools: 
 <p align="center">
    <a href="https://github.com/BangNGH" alt="Github">
