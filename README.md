@@ -2,7 +2,7 @@
   <a href="https://github.com/BangNGH"> <img loading="lazy" alt="Welcome" src="welcome.svg"/> </a>
 </p>
 
-My name is Huu Bang. I am a student of [Ho Chi Minh City University of Technology](https://www.hutech.edu.vn/) (HUTECH University), majoring in Software Engineering.<br>
+My name is Huu Bang. I am a student of [Ho Chi Minh City University of Technology](https://www.hutech.edu.vn/), majoring in Software Engineering.<br>
 
 ## 📫 How to reach me: 
 <p align="center">
